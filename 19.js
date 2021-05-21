@@ -3,7 +3,7 @@ pedido = (cod, qtd) => {
     
     for(i = 0; i < qtd; i++){
         switch(cod) {
-            case 100: total+=3.00       
+            case 100: total+=3.00      
             break
     
             case 200: total+=4.00

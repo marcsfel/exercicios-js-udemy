@@ -9,7 +9,7 @@ aumento = (cargo, salario) => {
         case 'C': console.log(salario * 1.20)
         break
 
-        default : console.log('Sem salário')
+        default : console.log('Plano Inválido')
     } 
 
 } 
